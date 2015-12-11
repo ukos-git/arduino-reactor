@@ -1,0 +1,4 @@
+MKModbus		KEYWORD1
+inBufferSize		KEYWORD2
+inBuffer		KEYWORD2
+deliver			KEYWORD2
