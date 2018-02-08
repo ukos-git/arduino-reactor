@@ -24,8 +24,8 @@ bread board planning|  final setup
 :-------------------------:|:-------------------------:
 <img src="https://github.com/ukos-git/arduino-reactor/blob/master/fritzing/swnt-reactor-image.png" alt="wiring fritzing" width="500px">  | <img src="https://github.com/ukos-git/arduino-reactor/blob/master/photos/2017-05-10%2017-17-13-2.JPG" alt="wiring photo" width="500px">
 
+technical wring is shown in the following schematic.
 
-
-![arduino technical](https://github.com/ukos-git/arduino-reactor/blob/master/fritzing/swnt-reactor-schematic.png)
+<a href="https://github.com/ukos-git/arduino-reactor/blob/master/fritzing/swnt-reactor-schematic.pdf"> <img src="https://github.com/ukos-git/arduino-reactor/blob/master/fritzing/swnt-reactor-schematic.png"> </a>
 
  
